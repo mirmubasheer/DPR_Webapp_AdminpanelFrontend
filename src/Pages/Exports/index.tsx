@@ -1,0 +1,16 @@
+export {default as NotFound} from '../NotFound/NotFound';
+export {default as Users} from '../Users';
+export {default as Dashboard} from '../Dashboard';
+export {default as Login} from '../Login';
+export {default as Builder } from '../Builder';
+export {default as Clients} from '../Clients';
+export {default as Projects} from '../NewProjects';
+export {default as ProjectsDetails} from '../NewProjects/ProjectDetails/ProjectDetails';
+export {default as Leads} from '../Leads';
+export {default as Notifications} from '../Notifications';
+export {default as MyProfile} from '../MyProfile';
+export {default as ChannelPartner} from '../ChannelPartner';
+export {default as ChannelPartnerDetails} from '../ChannelPartner/ChannelPartnerDetails/ChannelPartnerDetails';
+export {default as Team} from '../Team';
+export {default as Content} from '../Content';
+export {default as Integration} from '../Integration';
